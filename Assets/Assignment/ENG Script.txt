@@ -1,0 +1,75 @@
+Narrator: You are a 23 year old beautiful girl who lives in a hostel in Delhi
+
+Narrator: During the night you are sleeping soundly in your room.
+Only then do you feel as if someone is calling you. 
+
+Shadow: {$player_name} !!
+
+Narrator: Suddenly someone grabs your leg and pulls you up.
+
+You: Who is here ?
+
+Narrator: You look across the room, but you don't see anyone. Suddenly your bed starts shaking vigorously 
+
+You: 
+Choice 1: Run away from here
+Choice 2: Must check under the bed
+
+
+=> Choice 1:
+
+	You: I should run away before someone attacks me 
+
+	Narrator: You get up from your bed in a hurry. and runs outside. but the door of the room is locked 
+
+	You: This door is locked from outside. what do i do now? 
+
+	SubChoice 1: You should call for help.
+	SubChoice 2: Must try to open the door
+
+	=> SubChoice 1:
+
+		You: Somebody please open the door. Madhav!! Please open this door
+		
+		Narrator: You bang the door loudly. But from outside you don't get any answer. 
+		
+	=> End SubChoice 1:
+	
+	=> SubChoice 2:
+	
+		You: i have to open this door 
+		
+		Narrator: You push in the door with all your might, but the door doesn't even move 
+		
+	=> End SubChoice 2:
+	
+	Shadow: Where are you trying to run {$player_name}? 
+	
+	Narrator: Once again someone calls you from behind. You turn around in bewilderment. A dark shadow is looking at you with a devilish smile. 
+	
+=> End Choice 1:
+
+=> Choice 2:	
+		
+	You: Who is it? come in front of me 
+	
+	Narrator: You look down. but you don't see any 
+	
+	Shadow: looking for me {$player_name}?
+	
+	Narrator: Hearing a sudden sound, you look around you. A dark shadow standing in one corner of the room is looking at you with a demonic smile 
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

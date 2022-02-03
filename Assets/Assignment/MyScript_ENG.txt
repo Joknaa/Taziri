@@ -1,0 +1,73 @@
+Narrator: You are a young man in his graduation year of the computer science engineering university.
+Narrator: It is a very intense and stressfull period you are going through, having multiple exams to prepare for, and projects to do, all in a very close and tigh schedule.
+Narrator: You spend all of your time in the library, Consumed in your work. Suddenly you get a message from your older sister, saying two words.
+Mery: Hey Ancle.
+You: ... 
+Mery: ...
+Narrator: At first, you thought she had mistacked you for another person, or that she maybe teasing you for some reason.
+You: ...
+Narrator: your mind is already tired to think, and you are not in the mood for jokes, you replied:
+You: 
+{ =====> Choice 1.a : Huh ?
+	Mery: Dont "Huh" me !
+	You: I am soo tired i've been studying the whole day, and i am not in the mood for jokes.
+	Mery: I am not joking, You gonna be an ancle !
+	You: *Trying to make sense of what she is saying with the little brain power you have left*
+	Mery: You reaaaally are hopeless XD ! I am pregnent you dummy !
+	You: wuuuuut ! really ??!! on my god, i am gonna be an ancle !!
+	Mery: Rise and shine ! finally you got it XD.
+	You: I am soo happy for you !
+	Mery: Thank youu <3
+	Mery: Guess if its a boy or a girl 
+	You: 
+	{ =====> Choice 1.1.a : Its a boy
+		Mery: Haha you lost ! Its a girl.
+	}
+	{ =====> Choice 1.1.b : Its a girl
+		Mery: Hurray you got it right ! 
+	}
+	Mery: I want you to be her GodFather, Is that okey ?
+	You:
+	{ =====> Choice 1.2.a : Yes please !
+		Mery: Niiice i am super excited for her to meet her family amazing <3
+	}
+	{ =====> Choice 1.2.b : What is a godfather ? what does he do ?
+		Mery: He is basically a second father for the kid, he loves her and cares for her.
+		You: 
+		{ =====> Choice 1.2.1.a : Yes please !
+			*Check Choice 1.2.a*
+		}
+		{ =====> Choice 1.2.1.b : Well, i am your brother, so ofc i'll do that, whats the point of asking ?
+			Mery: You dont get it dummy ! its fine, when you get kids i'll be their GodMother.
+		}
+	}
+	You: Did you decide on a name for her ?
+	Mery: Actualy not yet, i have a bunch of names and i cant decide which one of them i like the most.
+	You: i can help if you want
+	Mery: suuure ! 
+	Mery: Here are the names i picked, they are derived from north african Amazigh culture, which one do you think is better ?
+	Mery: the first name is Taziri, which means Moonlight
+	Mery: the second name is Tofitri, which means More beautiful than the stars.
+	You:
+	{ =====> Choice 1.3.a : Taziri
+		You: Being better than the stars i thing is a cliché, but the moonlight on the other hand is something very special and happens only under a full moon and with a clouded sky, Its just so rare and unique.
+		Mery: I love that name, but i never thought of it that way ! You phrased it in a very poetic way, thats so beautiful.
+		Mery: So Taziri it is !
+	}
+	{ =====> Choice 1.3.a : Tofitri
+		You: The stars are the jewlry of the night sky, they are the most beautiful thing you can see at night. Naming your dauther as something even more beautiful is just so lovely.
+		Mery: Thank you, i think i'll go with Tofitri as you said.
+	}
+}
+{ =====> Choice 2.b : *Ignore message*  
+	*Some hours later*
+	Mery: Did you ignore my message ??
+	You: No i didnt
+	Mery: Yes you did ! You saw it and didnt replay, so basically you ignored it.
+	You: I am sorry okey, i had so muc stuff in my head at that time, i was working on a project and it wasnt going well, and the deadlind if closing in. So i wasnt in any mood to talk.
+	Mery: I am so sorry to hear that :(, i didnt know you were going through all this.
+	You: Its fine, I am sorry i didnt replay.
+	You: what with this "ancle" anyways ? 
+	Mery: Cant you figure it our by yourself ? 
+	*Continue from Line 15*
+}
