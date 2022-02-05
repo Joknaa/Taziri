@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Taziri/Scenes/Scene01.unity
+    guid: 98ada9c624fdaee42ad0d79f49d0967e
   m_configObjects: {}
